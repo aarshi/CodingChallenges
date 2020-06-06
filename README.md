@@ -16,3 +16,17 @@ Challenge 3: We want to generate two random numbers and make sure they are equal
 
 
 
+6/5
+
+Challenge 1: Find if string is a palindrome: https://examples.yourdictionary.com/palindrome-examples.html
+
+
+
+Challenge 2: Find the first repeating number in an array: [4,32,56,44,87,6,32,81,44,7]
+
+
+
+Challenge 3: Print fibonacci: https://www.mathsisfun.com/numbers/fibonacci-sequence.html 
+
+
+
