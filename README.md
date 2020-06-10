@@ -30,3 +30,15 @@ Challenge 3: Print fibonacci: https://www.mathsisfun.com/numbers/fibonacci-seque
 
 
 
+6/9
+
+Challenge 1: Write a program to determine whether a given number is prime or not
+
+
+
+Challenge 2: Write a program to display the number 4752 in reverse order
+
+
+
+Challenge 3: Print fibonacci: https://www.mathsisfun.com/numbers/fibonacci-sequence.html 
+
