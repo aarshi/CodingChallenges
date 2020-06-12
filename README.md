@@ -2,7 +2,7 @@
 Coding Challenges
 
 
-Challenge 1: Given a number say 82, determine if that number is even or odd
+# Challenge 1 #: Given a number say 82, determine if that number is even or odd
 
 
 
