@@ -70,3 +70,27 @@ and write a program that returns a list that contains only the elements that are
 
 
 **Challenge 16**: Write a password generator in Swift. Be creative with how you generate passwords - strong passwords have a mix of lowercase letters, uppercase letters, numbers, and symbols. The passwords should be random, generating a new password every time the user asks for a new password
+
+
+
+**Challenge 17**: Write a function that takes an ordered list of numbers (a list where the elements are in order from smallest to largest) and another number. The function decides whether or not the given number is inside the list and returns (then prints) an appropriate boolean. Use Binary search: google it and then redo in Swift
+
+
+
+**Challenge 18**: Implement a function that takes as input three variables, and returns the largest of the three
+
+
+
+**Challenge 19**: Create a dictionary (in your file) of names and birthdays. When you run your program it should ask the user to enter a name, and return the birthday of that person back to them. The interaction should look something like this:
+
+>>> Welcome to the birthday dictionary. We know the birthdays of:
+Albert Einstein
+Benjamin Franklin
+Ada Lovelace
+>>> Who's birthday do you want to look up?
+Benjamin Franklin
+>>> Benjamin Franklin's birthday is 01/17/1706
+
+
+
+**Challenge 20**: 
